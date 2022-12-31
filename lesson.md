@@ -49,6 +49,52 @@ Step 4: Instructor go through the format of each lesson.
 
 ## Part 3 - Mindsets Required to Succeed
 
-{{Input concepts, replicable steps & Code Samples}}
+### 3 Commonly Mistakes
+
+**1. Lack of attempts**
+
+<img src="./assets/images/weight-carry.webp" width="400px" />
+
+Learning to code can be similar to body building where one is required to make attempts to carry weight with repetitions. The more repetitions, the stronger you get with sufficient rest. The attempts you are giving to your homeworks will prepare you to get adjusted to problem solving with code. Give your best *personal* attempt and do not give up too easily.
+
+**2. Lack of practice**
+
+<img src="./assets/images/problem-solving.jpeg" width="400px" />
+
+It takes time. You will learn what programming language (in this case, JavaScript) can achieve and it will take some time before you are able to problem solve by writing codes. Most students go through this phase where they understood the problems posted to them in homeworks, conceptually able to solve the problem, yet unable to produce the code just yet. With sufficient practices, you will begin to spot repeated patterns in logics that will help you get better.
+
+**3. Lack of readings**
+
+<img src="./assets/images/knowledge-power.jpeg" width="400px" />
+
+Reading in breadth will help you to achieve learning in depth. Subscribe to technical articles such as [daily.dev](https://daily.dev/) and give yourself a target of 30 mins of reading daily will help you grow in this field. Other than technical articles online, you should also give sufficient time to read what is shared in the pre-class work.
+
+### 3 Mindsets to Succeed
+
+**1. Be Resourceful**
+
+<img src="./assets/images/google-search.png" width="400px" />
+
+There are a lot of information online. As a learner, you should not be facing with the lack of information. Rather, you would have too much information and this is where having an instructor pointing you to the right direction helps. Be resourceful is important to succeed. If you are not able to access the information made available to you online, the help you received will be limited.
+
+**2. Ask Questions**
+
+<img src="./assets/images/asking-questions.jpeg" width="400px" />
+
+It is important to formulate your questions. The most common sayings "we do not know what we do not know" and hence "we do not know what to ask". Though true, the attempts to formulate question forces you to examine your current knowledge and identify the gaps you need to crossover. What helps most of the time is not the answers you get but identify your gaps in the process of formulating questions. 
+
+**3. Understand instead of memorize**
+
+<img src="./assets/images/memory.jpeg" width="400px" />
+
+This are the three steps to become better in coding:
+
+1. Understand the concept
+2. Apply the knowledge
+3. Practice with code
+
+You should not seek to memorize what you have learned. Instead, you need to understand them. Since information is vast and available online, you will know how to find the answers you need if you understand the subjects.  
+
+Example: If you learn how to write a function in JavaScript, you should be able do the same for any other languages (Python, Java, C#，etcs).
 
 END
