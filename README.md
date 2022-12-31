@@ -1,5 +1,13 @@
 # Lesson - Onboarding
 
+## Laptop Requirement
+
+Your laptop should have the minimal specs:
+
+- 8GB RAM
+- Dual Core CPU
+- 100GB Available Storage
+
 ## Lesson Objectives
 
 By the end of this lesson, students would be able to:

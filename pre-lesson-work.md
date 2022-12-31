@@ -10,14 +10,6 @@ Please ensure:
 > You may experience disruptions during lesson if WSL2 is not installed beforehand.
 
 
-## Local Machine Specifications
-
-Your laptop should have the minimal specs:
-
-- 8GB RAM
-- Dual Core CPU
-- 100GB Available Storage
-
 ## WSL Installation Reference
 
 Follow the steps on this [site](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-11-with-gui-support#1-overview). Please note below:
