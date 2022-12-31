@@ -4,6 +4,8 @@
 
 In this lesson, learners will spend most of their time installing and confirming the tools required for the program. Leveraging on learners' experience going through the technical setups, instructor should highlight the mindsets needed to become successful in this program and beyond.
 
+> In this lesson, things may get messy as students may face with technical blockers in the midst of setting up. Expect delays and troubleshooting time.
+
 ---
 
 ## Part 1 - Install VS Code & GIT
@@ -47,7 +49,7 @@ Step 4: Instructor go through the format of each lesson.
 
 ---
 
-## Part 3 - Mindsets Required to Succeed
+## Part 3 - How to Succeed
 
 ### 3 Commonly Mistakes
 
