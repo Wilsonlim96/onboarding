@@ -17,7 +17,7 @@ By the end of this lesson, students would be able to:
 
 - Interpret class schedule, access [GitHub Organization](https://github.com/trent-f2f-bootcamp-pt), and locate resources for future lessons.
 
-- Tell the mindsets needed to succeed in this program and also as a professional Software Engineer
+- Perform a self-reflection on how to be more prepared for this program
 
 ## Resources
 
