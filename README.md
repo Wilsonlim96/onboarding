@@ -1,12 +1,23 @@
-# Lesson - {{Enter Title}}
+# Lesson - Onboarding
 
 ## Lesson Objectives
 
 By the end of this lesson, students would be able to:
 
-- {{objective 1}}
-- {{objective 2}}
-- {{objective 3}}
+- Run these tools/softwares on their local machine
+    1. Node (latest LTS to date)
+    1. VS Code
+    1. VS Extension - Live Server (local hosting)
+    1. VS Extension - Live Share (pair programming tool)
+    1. VS Extension - Code Runner
+    1. VS Extension - Prettier
+    1. GIT
+
+- Install Windows SubSystem for Linux (Windows users only) and run Ubuntu Terminal
+
+- Interpret class schedule, access [GitHub Organization](https://github.com/trent-f2f-bootcamp-pt), and locate resources for future lessons.
+
+- Tell the mindsets needed to succeed in this program and also as a professional Software Engineer
 
 ## Resources
 
