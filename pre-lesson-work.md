@@ -19,4 +19,8 @@ Follow the steps on this [site](https://ubuntu.com/tutorials/install-ubuntu-on-w
 
 > If you face any issues, you may just google "Install WSL on Windows" and you will find many resources online. Otherwise, contact your instructor for support.
 
+For the Windows users, the term `Terminal` shall refers to the Ubuntu Terminal that you just installed with the above reference link. It should look something like this.
+
+<img src="https://149366088.v2.pressablecdn.com/wp-content/uploads/2020/04/ubuntu-20.4-wsl.jpg" />
+
 End
