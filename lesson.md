@@ -12,6 +12,11 @@ In this lesson, learners will spend most of their time installing and confirming
 
 Step 1: Download and Install Node from this [link](https://nodejs.org/en/).
 
+To verify your installation is correct, enter the command below in the Terminal/Cmd Prompt and the version of the node installed will be printed.
+```sh
+node --version
+```
+
 Step 2: Download and Install VS Code from this [link](https://code.visualstudio.com/).
 
 Step 3: Install VS Code Extension
