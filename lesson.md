@@ -43,7 +43,8 @@ Step 1: Go to [GitHub](https://github.com) and create a new account.
 
 Step 2: Share your GitHub `username` to instructors and instructors would add you to the [GitHub Organization](https://github.com/trent-f2f-bootcamp-pt). Once you're added, you can view all repositories in this organization.
 
-Step 3: Instructor brief students with [class schedule (add link here)]().
+Step 3: Instructor brief students with class schedule:
+- [DWA 21](https://docs.google.com/spreadsheets/d/1cfLW2dL9FqtIXYGTOzHfS_Vz4lizXYlnRZUKnpxCzeI/edit#gid=779253144).
 
 Step 4: Instructor go through the format of each lesson.
 
