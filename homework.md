@@ -5,7 +5,11 @@
 In the lesson, you are presented with 3 common mistakes and 3 mindsets needed to succeed. Perform a short reflection on  which pointers apply to you and what would you do to prepare yourself better for this program.
 
 ```
-test
+**Lack of readings**
+I personally don’t enjoy reading and thus usually skip readings if possible. But I will make it a point to spend 30min before each lesson to read and go through the pre-class work.
+**Ask Questions**
+I am an inquisitive person and likes to ask a lot of questions, and this will help me clarify doubts I have along the way and learn more efficiently
+
 ```
 
 ## Submission
