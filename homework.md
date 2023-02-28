@@ -5,7 +5,7 @@
 In the lesson, you are presented with 3 common mistakes and 3 mindsets needed to succeed. Perform a short reflection on  which pointers apply to you and what would you do to prepare yourself better for this program.
 
 ```
-Enter your answer here
+test
 ```
 
 ## Submission
